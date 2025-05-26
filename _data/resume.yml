@@ -35,9 +35,21 @@ skills:
   - title: DevOps and Infrastructure
     items: AWS, GCP, Ansible, Chef, AWS CDK, Terraform, Kubernetes, Docker, OpenTelemetry
 experience:
-  - title: Software Engineering Consultant, Part-Time
+  - title: Technical Lead
+    company: Ensuria
+    duration: Feb 2025 - Present
+    description: |
+      <ul>
+        <li>Lead technical architecture and quality assurance across multiple web services, including code reviews, architectural decisions, and technical consulting on major initiatives.</li>
+        <li>Implemented comprehensive CI/CD pipelines for both frontend and backend projects, improving deployment reliability and development workflow.</li>
+        <li>Migrated large-scale Next.js application to React with Vite, achieving 10x reduction in build times and significant performance improvements.</li>
+        <li>Designed and developed multiple major product features from conception to deployment.</li>
+        <li>Evaluated and selected new frontend technology stack to optimize team productivity and application performance.</li>
+        <li><strong>Technologies</strong>: React, Vite, Next.js, CI/CD, AWS, Nest.JS, Postgres, Redis.</li>
+      </ul>
+  - title: Senior Software Engineering Consultant, Part-Time
     company: DraftWise
-    duration: Feb 2024 - Present
+    duration: Feb 2024 - Feb 2025
     description: |
       <ul>
         <li>Joined the Series A startup to build AI-powered contract platform that assists law firms in procuring quality contracts.</li>
