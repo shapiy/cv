@@ -36,8 +36,20 @@ skills:
     items: AWS, GCP, Ansible, Chef, AWS CDK, Terraform, Kubernetes, Docker, OpenTelemetry
 experience:
   - title: Technical Lead
+    company: NDA
+    duration: Aug 2025 - Present
+    description: |
+      <ul>
+        <li>Led the transformation of legacy technical stack to a modern Java and Kubernetes ecosystem, architecting and implementing cloud-native solutions from the ground up.</li>
+        <li>Transformed delivery processes from manual, slow workflows to automated pipelines with canary deployments, automated quality assurance, and automation gates, significantly improving release velocity and reliability.</li>
+        <li>Built and led a team of 10 engineers, handling full hiring process, onboarding, and technical mentorship.</li>
+        <li>Architected CI/CD infrastructure using GitLab, ArgoCD, and Argo Rollouts to enable progressive delivery with automated rollback capabilities.</li>
+        <li>Established comprehensive observability stack with Prometheus and Loki for proactive monitoring and debugging.</li>
+        <li><strong>Technologies</strong>: Java 25, Spring Boot, Kubernetes, GitLab, ArgoCD, Argo Rollouts, Canary Deployments, Prometheus, Loki, Postgres, Kafka.</li>
+      </ul>
+  - title: Technical Lead
     company: Ensuria
-    duration: Feb 2025 - Present
+    duration: Feb 2025 - Sep 2025
     description: |
       <ul>
         <li>Lead technical architecture and quality assurance across multiple web services, including code reviews, architectural decisions, and technical consulting on major initiatives.</li>
